@@ -1,0 +1,2 @@
+# cookbot-releases
+Releaser Cookbot
